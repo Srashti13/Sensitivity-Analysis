@@ -1,6 +1,6 @@
 # Sensitivity-Analysis
 
-This is project was done as a part of my coursework for " ... " course at GMU.
+This is project was done as a part of my coursework for " Deterministic Models " course at GMU.
 
 ### Objective:
 We want a method for evaluating travel costs and determining the least expensive conference site from over 216 US cities.
@@ -21,6 +21,6 @@ Different Network Algorithms as applied such as:
 - Floyd Warshall Algorithm
 
 ### Sensitivity Analysis:
-The technique used to determine how independent variable values will impact a particular dependent variable under a given set ofassumptions is defined as sensitive analysis.
+The technique used to determine how independent variable values will impact a particular dependent variable under a given set of assumptions is defined as sensitive analysis.
 
 Its importance is that it helps in identifying the key variables that are major influence in the cost and benefits of the project.
