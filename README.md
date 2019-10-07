@@ -6,7 +6,7 @@ This is project was done as a part of my coursework for " Deterministic Models "
 We want a method for evaluating travel costs and determining the least expensive conference site from over 216 US cities.
 
 ### Data
-![data pic]()
+![data pic](Datasetsnap.PNG)
 
 
 ### Algorithms & Analysis:
