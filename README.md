@@ -6,7 +6,7 @@ This is project was done as a part of my coursework for " Deterministic Models "
 We want a method for evaluating travel costs and determining the least expensive conference site from over 216 US cities.
 
 ### Data
-![data pic](Datasetsnap.PNG)
+![data pic](Pics/Datasetsnap.PNG)
 
 
 ### Algorithms & Analysis:
@@ -19,6 +19,13 @@ Different Network Algorithms as applied such as:
 - Bellman ford Algorithm
 - Johnson Algorithm
 - Floyd Warshall Algorithm
+
+### output
+![data pic2](Pics/outputBellmanFord.PNG)
+![data pic3](Pics/OutputDijkstra.PNG)
+
+### Comparison of Time by Different Algorithms
+![data pic4](Pics/Timecomparision.PNG)
 
 ### Sensitivity Analysis:
 The technique used to determine how independent variable values will impact a particular dependent variable under a given set of assumptions is defined as sensitive analysis.
